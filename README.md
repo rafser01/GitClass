@@ -1,1 +1,2 @@
 # GitClass
+*Some text*
